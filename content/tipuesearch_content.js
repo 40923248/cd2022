@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 40923248', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'NX1980啟動', 'text': '參考資料： https://mde.tw/cd2022_guide/content/NX1980.html \n 影片教學： https://youtu.be/DtSGNxoHS2E \n', 'tags': '', 'url': 'NX1980啟動.html'}]};
