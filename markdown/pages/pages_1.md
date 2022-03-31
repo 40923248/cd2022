@@ -1,6 +1,6 @@
 Title: About
 
-## CMSimfly 內容管理網誌
+##2022 協同產品設計實習
 
 課程倉儲: <a href="https://github.com/40923248/cd2022">https://github.com/40923248/cd2022</a>
 
