@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-05-05T20:32:38-00:00</lastmod>
+<lastmod>2022-05-05T20:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2022-05-05T20:32:38-00:00</lastmod>
+<lastmod>2022-05-05T20:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2022-05-05T20:32:38-00:00</lastmod>
+<lastmod>2022-05-05T20:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2022-05-05T20:32:38-00:00</lastmod>
+<lastmod>2022-05-05T20:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2022-05-05T20:17:02+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w10_block_ui.html</loc>
+<lastmod>2022-05-05T20:40:55+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w10_ssh.html</loc>
+<lastmod>2022-05-05T20:44:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./w10_nx_integ.html</loc>
+<lastmod>2022-05-05T20:40:55+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./w6_40923248.html</loc>
 <lastmod>2022-05-05T20:17:02+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -61,21 +82,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2022-05-05T20:31:29+08:06</lastmod>
+<lastmod>2022-05-05T20:44:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2022springcd.html</loc>
-<lastmod>2022-05-05T20:31:29+08:06</lastmod>
+<lastmod>2022-05-05T20:44:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923248.html</loc>
-<lastmod>2022-05-05T20:31:29+08:06</lastmod>
+<lastmod>2022-05-05T20:44:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
