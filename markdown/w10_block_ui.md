@@ -17,7 +17,6 @@ w10_block_ui
 
 [網頁連結]:https://40923248.github.io/cd2022/content/w10_block_ui.html
 
-<p></p>
 <script>
 var winkVideoData = {
   dataVersion: 1,
@@ -40,4 +39,3 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<p></p>
